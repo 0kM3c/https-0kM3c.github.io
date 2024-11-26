@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr" >
  <head>
- <meta charset="utf-8">
- <link rel="stylesheet" href="./bic.css">
- <link rel="stylesheet" href="./bic2.css">
- <link rel="stylesheet" href="./bic3.css">
- <title>BIC</title>
+	 <meta charset="utf-8">
+	 <link rel="stylesheet" href="./bic.css">
+	 <link rel="stylesheet" href="./bic2.css">
+	 <link rel="stylesheet" href="./bic3.css">
+	 <title>BIC</title>
  </head>
  <body>
     <header id="top">
