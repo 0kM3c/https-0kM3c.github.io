@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    gap:400px;
+}
+li{
+    padding:10px;
+}
+.colone{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    column-gap: 10px;
+}

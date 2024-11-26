@@ -1,0 +1,37 @@
+header{
+    background-color: yellow;
+    border: solid;
+    padding: 20px;
+
+}
+body{
+    margin: 2%;
+}
+
+.menu{
+    background-color: orange;
+    padding: 20px;
+
+}
+.fond{
+    background-color: green;
+    margin-top: 20px;
+    padding: 20px;
+}
+.fond2{
+    background-color: yellow;
+    margin: 40px;
+    padding: 20px;
+}
+.fond3{
+    background-color: beige;
+    margin: 40px;
+    padding: 20px;
+    border: solid;
+}
+.fin{
+    background-color: yellow;
+    border: solid;
+    margin-top: 20px;
+    padding: 20px;
+}
